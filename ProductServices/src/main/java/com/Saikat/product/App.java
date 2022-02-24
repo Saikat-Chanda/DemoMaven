@@ -1,4 +1,4 @@
-Saikat com.Nabanita.product;
+Saikat com.Saikat.product;
 
 /**
  * Hello world!
